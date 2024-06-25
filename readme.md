@@ -26,3 +26,27 @@ The server is implemented using Python's socket module, providing a foundational
 - Serves static files from a specified directory.
 - Accepts file uploads and stores them in a specified directory.
 - Error handling for common HTTP status codes (200, 400, 404, 500).
+
+# Roadmap
+
+This roadmap outlines the planned enhancements and features for the httPY project. My goal is to improve the coolness, uniqueness, employability, and code quality of the project.
+
+- [ ] Add HTTPS support for secure communication.
+- [ ] Implement request routing capabilities.
+- [ ] Develop middleware functionality.
+- [ ] Create a web-based interface for monitoring server activity.
+- [ ] Integrate real-time data processing features.
+- [ ] Provide examples integrating with modern web frameworks.
+- [ ] Develop detailed use-case examples and tutorials.
+- [ ] Enhance documentation with comprehensive guides.
+- [ ] Showcase real-world applications or projects using httPY.
+- [ ] Create a series of tutorial videos demonstrating usage and features.
+- [ ] Improve code comments and documentation.
+- [ ] Implement extensive error handling and logging.
+- [ ] Write unit tests to ensure code reliability and maintainability.
+- [ ] Refactor code for better readability and performance.
+
+## Contribution
+I welcome contributions from the community! Feel free to open issues, submit pull requests, or suggest features and improvements.
+
+Together, let's make httPY a powerful and robust HTTP server implementation in Python!
